@@ -1,0 +1,31 @@
+body {
+  background-color: #2b3252;
+}
+h3 {
+  text-align: center;
+  color: white;
+}
+#search {
+  background-color: lightgray;
+  border-radius: 1rem;
+  padding: 0.25em;
+  font-size: 16px;
+  text-align: center;
+}
+button {
+  border-radius: 0.5rem;
+  align-items: center;
+  background-color: #008cba; /*Blue*/
+  border: 2px solid #008cba;
+  color: white;
+  font-size: 16px;
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+  transition-duration: 0.3s;
+}
+button:hover {
+  text-align: center;
+  background-color: #2b3252;
+  color: white;
+}
